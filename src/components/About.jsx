@@ -36,7 +36,7 @@ function About() {
         {/* SNSリンク */}
         <div className="flex justify-center space-x-6">
           <a
-            href="https://twitter.com/your_x_username"
+            href="https://twitter.com/teiku655"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:opacity-80 transition"
@@ -49,7 +49,7 @@ function About() {
           </a>
 
           <a
-            href="https://github.com/your_github_username"
+            href="https://github.com/teiku655"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:opacity-80 transition"
