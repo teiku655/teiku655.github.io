@@ -1,4 +1,4 @@
-# teiku Portfolio
+# teiku portfolio
 
 This is my personal portfolio site.  
 It is built using **React**, **Vite**, and **Tailwind CSS**.
