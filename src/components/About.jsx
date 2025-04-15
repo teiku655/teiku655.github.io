@@ -1,4 +1,4 @@
-import teLogo from '../assets/te-logo.png';
+import teLogo from '../../public/te-logo.png';
 
 function About() {
   return (

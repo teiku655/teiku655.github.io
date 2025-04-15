@@ -26,6 +26,7 @@ function Skills() {
               <h4 className="font-semibold text-gray-700 mb-1">技術・フレームワーク</h4>
               <ul className="list-disc list-inside text-gray-700">
                 <li>Angular</li>
+                <li>React</li>
                 <li>Django</li>
                 <li>PostgreSQL</li>
                 <li>TensorFlow</li>
