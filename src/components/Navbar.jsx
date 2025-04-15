@@ -6,8 +6,8 @@ function Navbar() {
           <ul className="flex space-x-6 text-sm font-medium text-gray-700">
             <li><a href="#about" className="hover:text-blue-500">About</a></li>
             <li><a href="#career" className="hover:text-blue-500">Career</a></li>
-            <li><a href="#work" className="hover:text-blue-500">Work</a></li>
             <li><a href="#skills" className="hover:text-blue-500">Skills</a></li>
+            <li><a href="#work" className="hover:text-blue-500">Work</a></li>
           </ul>
         </div>
       </nav>

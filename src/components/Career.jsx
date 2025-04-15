@@ -19,8 +19,7 @@ function Career() {
             <p className="text-sm text-gray-500">2018年4月 〜 2020年9月</p>
             <h3 className="text-lg font-semibold text-gray-800">データ活用系Webアプリケーション開発</h3>
             <p className="text-gray-700">
-              全工程において、フロントエンドからバックエンドまで、幅広く担当。<br />
-              使用技術：Angular, Django, PostgreSQL
+              全工程において、フロントエンドからバックエンドまで、幅広く担当。
             </p>
           </li>
 
@@ -28,8 +27,7 @@ function Career() {
             <p className="text-sm text-gray-500">2020年10月 〜 2023年3月</p>
             <h3 className="text-lg font-semibold text-gray-800">ネットワーク試験系Webアプリケーション開発・運用</h3>
             <p className="text-gray-700">
-              環境構築、試験工程、ネットワーク部分の実装を担当。<br />
-              使用技術：Java, Go, Cisco IOS, Wireshark, React
+              環境構築、試験工程、ネットワーク部分の実装を担当。
             </p>
           </li>
 

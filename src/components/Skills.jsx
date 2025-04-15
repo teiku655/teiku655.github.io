@@ -1,6 +1,6 @@
 function Skills() {
   return (
-    <section id="skills" className="py-20 px-4 bg-white">
+    <section id="skills" className="py-20 px-4 bg-gray-100">
       <div className="max-w-3xl mx-auto">
         <h2 className="text-3xl font-bold text-gray-800 mb-6">Skills</h2>
 
@@ -13,7 +13,7 @@ function Skills() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             <div>
-              <h4 className="font-semibold text-gray-700 mb-1">使用した言語</h4>
+              <h4 className="font-semibold text-gray-700 mb-1">言語</h4>
               <ul className="list-disc list-inside text-gray-700">
                 <li>Python</li>
                 <li>TypeScript</li>
@@ -23,7 +23,7 @@ function Skills() {
               </ul>
             </div>
             <div>
-              <h4 className="font-semibold text-gray-700 mb-1">使用した技術・フレームワーク</h4>
+              <h4 className="font-semibold text-gray-700 mb-1">技術・フレームワーク</h4>
               <ul className="list-disc list-inside text-gray-700">
                 <li>Angular</li>
                 <li>Django</li>
@@ -48,7 +48,7 @@ function Skills() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             <div>
-              <h4 className="font-semibold text-gray-700 mb-1">使用した言語</h4>
+              <h4 className="font-semibold text-gray-700 mb-1">言語</h4>
               <ul className="list-disc list-inside text-gray-700">
                 <li>OpenCL</li>
                 <li>CUDA</li>
@@ -59,7 +59,7 @@ function Skills() {
               </ul>
             </div>
             <div>
-              <h4 className="font-semibold text-gray-700 mb-1">使用したツール・ライブラリ</h4>
+              <h4 className="font-semibold text-gray-700 mb-1">ツール・ライブラリ</h4>
               <ul className="list-disc list-inside text-gray-700">
                 <li>PyTorch</li>
                 <li>MPI</li>

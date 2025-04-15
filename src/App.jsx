@@ -12,8 +12,8 @@ function App() {
       <main className="pt-20">
         <About />
         <Career />
-        <Work />
         <Skills />
+        <Work />
       </main>
     </div>
   );
