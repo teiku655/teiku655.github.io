@@ -7,7 +7,7 @@ function Work() {
         <div className="bg-white p-6 rounded-lg shadow">
           <h3 className="text-xl font-semibold text-gray-800 mb-2">このポートフォリオ</h3>
           <p className="text-gray-700 mb-4">
-            React、Vite、Tailwind CSS を使用して作成しました。
+            React, Vite, Tailwind CSS を使用して作成しました。
           </p>
           <a
             href="https://github.com/teiku655/teiku655.github.io"
