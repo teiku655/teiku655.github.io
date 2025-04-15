@@ -8,7 +8,7 @@ function Skills() {
         <div className="mb-10">
           <h3 className="text-2xl font-semibold text-gray-700 mb-2">業務経験（約5年）</h3>
           <p className="text-gray-700 mb-4">
-            約5年間、Webアプリケーションの開発・運用に全般的に携わり、フロントエンドからネットワークまで、様々な技術領域に浅く広く触れてきました。
+            約5年間、Webアプリケーションの開発・運用に全般的に携わり、フロントエンドからネットワークまで、幅広い技術領域に触れてきました。
           </p>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
