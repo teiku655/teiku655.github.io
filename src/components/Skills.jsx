@@ -8,7 +8,7 @@ function Skills() {
         <div className="mb-10">
           <h3 className="text-2xl font-semibold text-gray-700 mb-2">業務経験（約5年）</h3>
           <p className="text-gray-700 mb-4">
-            約5年間、Webアプリケーションの開発・運用に全般的に携わり、フロントエンドからネットワークまで、幅広い技術領域に触れてきました。
+            Webアプリケーション開発・導入、品質検査、製品提案等の業務に携わり、様々な技術に触れてきました。
           </p>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
@@ -23,7 +23,7 @@ function Skills() {
               </ul>
             </div>
             <div>
-              <h4 className="font-semibold text-gray-700 mb-1">技術・フレームワーク</h4>
+              <h4 className="font-semibold text-gray-700 mb-1">技術・ソフトウェア</h4>
               <ul className="list-disc list-inside text-gray-700">
                 <li>Angular</li>
                 <li>React</li>
@@ -44,7 +44,7 @@ function Skills() {
         <div className="mb-10">
           <h3 className="text-2xl font-semibold text-gray-700 mb-2">修士研究</h3>
           <p className="text-gray-700 mb-4">
-            FPGA、AI、高速計算に関連するテーマで、システム側のプログラミングに取り組みました。
+            HPC、FPGA、AIに関連するテーマで、システム側のプログラミングに取り組みました。
           </p>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
@@ -60,7 +60,7 @@ function Skills() {
               </ul>
             </div>
             <div>
-              <h4 className="font-semibold text-gray-700 mb-1">ツール・ライブラリ</h4>
+              <h4 className="font-semibold text-gray-700 mb-1">技術・ソフトウェア</h4>
               <ul className="list-disc list-inside text-gray-700">
                 <li>PyTorch</li>
                 <li>MPI</li>

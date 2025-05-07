@@ -7,9 +7,9 @@ function About() {
         <h2 className="text-3xl font-bold text-gray-800 mb-6">About</h2>
 
         <p className="text-gray-700 text-lg mb-6">
-          法学部卒からエンジニアに就職し、約5年働いた後、情報系修士で学び直しました。<br />
+          法学部卒からシステムエンジニアに就職し、約5年働いた後、情報理工修士で学び直しました。<br />
           2025年3月に修了し、現在、リモートで働ける会社を探して就活中です。<br />
-          得意分野は、HPCやAIやFPGAです。
+          得意分野は、HPCやFPGAやAIです。
         </p>
 
         {/* ulリストと画像の横並び */}
@@ -20,7 +20,7 @@ function About() {
             <li><strong>出身：</strong> 兵庫県</li>
             <li><strong>住所：</strong> 埼玉県</li>
             <li><strong>生年：</strong> 1994年</li>
-            <li><strong>趣味：</strong> 社会人サッカー、アニメ・お笑い鑑賞、国内旅行</li>
+            <li><strong>趣味：</strong> アニメ・お笑い鑑賞、国内旅行、社会人サッカー</li>
           </ul>
 
           {/* 画像 */}

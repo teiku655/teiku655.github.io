@@ -16,36 +16,55 @@ function Career() {
           </li>
 
           <li>
-            <p className="text-sm text-gray-500">2018年4月 〜 2020年9月</p>
+            <p className="text-sm text-gray-500">2018年4月 〜 2019年9月</p>
             <h3 className="text-lg font-semibold text-gray-800">データ活用系Webアプリケーション開発</h3>
             <p className="text-gray-700">
-              全工程において、フロントエンドからバックエンドまで、幅広く担当。
+              UI改善、画像アップロード等の機能を開発（全工程、TypeScript、Python）。
             </p>
           </li>
 
           <li>
-            <p className="text-sm text-gray-500">2020年10月 〜 2023年3月</p>
-            <h3 className="text-lg font-semibold text-gray-800">ネットワーク試験系Webアプリケーション開発・運用</h3>
+            <p className="text-sm text-gray-500">2019年10月 〜 2020年9月</p>
+            <h3 className="text-lg font-semibold text-gray-800">ネットワーク製品提案</h3>
             <p className="text-gray-700">
-              環境構築、試験工程、ネットワーク部分の実装を担当。
+              顧客要件、標準仕様等を整理し提案資料を作成。
             </p>
           </li>
 
           <li>
-            <p className="text-sm text-gray-500">2023年4月</p>
-            <h3 className="text-lg font-semibold text-gray-800">情報理工系修士課程に進学</h3>
+            <p className="text-sm text-gray-500">2020年10月 〜 2021年3月</p>
+            <h3 className="text-lg font-semibold text-gray-800">検査用アプリケーション開発</h3>
             <p className="text-gray-700">
-              AI や FPGA に関する研究を実施。国際会議で発表予定。
+              画面遷移、データベース、スレッド並列化等の機能を開発（全工程、JavaScript、Java）。
             </p>
           </li>
 
           <li>
-            <p className="text-sm text-gray-500">2025年3月</p>
-            <h3 className="text-lg font-semibold text-gray-800">修士課程 修了</h3>
+            <p className="text-sm text-gray-500">2021年4月 〜 2022年3月</p>
+            <h3 className="text-lg font-semibold text-gray-800">ネットワーク試験用アプリケーション開発・運用</h3>
+            <p className="text-gray-700">
+              パケット分析試験、システム、ネットワーク構築等によるシステム導入等を実施（Wireshark、Cisco IOS、Docker、Kubernetes）。
+            </p>
           </li>
 
           <li>
-            <p className="text-sm text-gray-500">2025年4月</p>
+            <p className="text-sm text-gray-500">2022年4月 〜 2023年1月</p>
+            <h3 className="text-lg font-semibold text-gray-800">ネットワーク装置の品質検査</h3>
+            <p className="text-gray-700">
+              検査、検査要件の調整、検査システムの構築（シェルスクリプト）。
+            </p>
+          </li>
+          
+          <li>
+            <p className="text-sm text-gray-500">2023年4月 ～ 2025年3月</p>
+            <h3 className="text-lg font-semibold text-gray-800">情報理工修士課程に進学</h3>
+            <p className="text-gray-700">
+              FPGA・HPC・AIに関する研究を実施。国際会議で発表予定（OpenCL、C++、Python、Verilog HDL）。
+            </p>
+          </li>
+
+          <li>
+            <p className="text-sm text-gray-500">2025年4月 ～ 現在</p>
             <h3 className="text-lg font-semibold text-gray-800">就職活動中</h3>
           </li>
         </ul>
